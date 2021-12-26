@@ -1,2 +1,4 @@
-# MinecraftPluginTemplate  
-自分で使う用のテンプレートなので色々おかしいかもです。
+# 「リア充爆発しろ」プラグイン
+ただリア充なMobが爆発するプラグインです。  
+使ってみた動画↓  
+https://youtu.be/9G8eMpd0eM8
